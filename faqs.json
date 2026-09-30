@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is an ed-tech company that offers virtual internship programs in fields like Artificial Intelligence, Web Development, and Data Science."
+  },
+  {
+    "question": "How long does the internship last?",
+    "answer": "The internship duration is mentioned in your offer letter, and most programs run for about one month."
+  },
+  {
+    "question": "Is the internship paid?",
+    "answer": "CodeAlpha internships are unpaid, but interns receive a certificate, letter of recommendation, and placement support based on performance."
+  },
+  {
+    "question": "How many tasks do I need to complete?",
+    "answer": "You need to complete any 2 or 3 tasks out of the 4 listed for your selected domain."
+  },
+  {
+    "question": "Where do I submit my project?",
+    "answer": "You should upload your source code to a GitHub repository named CodeAlpha_ProjectName and submit the link using the Submission Form."
+  },
+  {
+    "question": "Do I need to post about the internship on LinkedIn?",
+    "answer": "Yes, you are asked to share your internship status on LinkedIn and tag CodeAlpha, and later post a short video explaining your project."
+  },
+  {
+    "question": "Will I get a certificate?",
+    "answer": "Yes, interns who complete the required tasks receive a QR-verified completion certificate and a unique ID certificate."
+  },
+  {
+    "question": "Can I get help if I'm stuck on a task?",
+    "answer": "You can ask questions in the official WhatsApp or community group provided to interns for support."
+  }
+]
